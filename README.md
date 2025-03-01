@@ -3,6 +3,7 @@ Project Overview:
 This project is a Spring Boot application designed for managing hospital information. It allows you to retrieve hospital details based on specified locations (cities).
 
 Prerequisites:
+
 Before running this application, ensure you have the following installed:
 Java Development Kit (JDK): Version 17 or higher.
 Maven or Gradle: Build tool for managing dependencies and building the project.
