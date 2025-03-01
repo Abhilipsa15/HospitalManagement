@@ -38,20 +38,3 @@ Double-check your database connection properties for accuracy.
 Ensure the Oracle database is running and accessible.
 Verify that the Oracle JDBC driver is in your project's classpath.
 
-BootProj03MiniProjectHospitalManagementApplication/
-├── src/
-│   ├── main/
-│   │   ├── java/com/nit/
-│   │   │   ├── Contoller/
-│   │   │   ├── Dao/
-│   │   │   ├── model/
-│   │   │   ├── service/
-│   │   │   ├── BootProj03MiniProjectHospitalManagementApplication.java
-│   │   ├── resources/
-│   │   │   ├── application.properties (or application.yml)
-│   ├── test/
-│       ├── java/com/nit/
-│           └── ... (test classes)
-├── pom.xml (or build.gradle)
-└── README.md
-
